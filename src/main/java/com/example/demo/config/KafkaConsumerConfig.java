@@ -26,7 +26,7 @@ public class KafkaConsumerConfig {
 
 	
 
-	System.out.println("emo");
+	
 
 	
 	@Bean
