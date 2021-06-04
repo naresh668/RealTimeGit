@@ -24,7 +24,7 @@ public class KafkaConsumerConfig {
 	
 	
 
-	System.out.println("try");
+	
 
 	System.out.println("emo");
 
