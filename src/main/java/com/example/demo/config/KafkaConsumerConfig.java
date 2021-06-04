@@ -23,7 +23,11 @@ import com.example.demo.model.User;
 public class KafkaConsumerConfig {
 	
 	
+
+	System.out.println("try");
+
 	System.out.println("emo");
+
 	
 	@Bean
 	public ConsumerFactory<String, String> consumerFactory() {
